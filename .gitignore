@@ -1,0 +1,13 @@
+# Local working files and backups
+.tmp/
+private/
+node_modules/
+.env
+.env.*
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+# Resume was intentionally removed from this portfolio
+assets/*Resume*.docx
+assets/resume-preview.html
